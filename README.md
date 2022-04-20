@@ -1,0 +1,2 @@
+# formula_1_visualized
+This project is based on the fasf1 python library. The new season started with new regulations and a lot of changes were observed in the aero department. In this project, we will look into Bahrain Grand Prix. The Ferrari driver Leclerc and RedBull driver Max are compared for their fastest lap in qualifying. The visualization part contains track position, track elevation, speed telemetry, and pedal inputs of both drivers. It is interesting to see how Ferrari is quick around the track with the straight line and corner speed.  
